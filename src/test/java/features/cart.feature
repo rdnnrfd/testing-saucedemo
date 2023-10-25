@@ -1,5 +1,6 @@
 Feature: Cart feature
 
+  @Regression
   Scenario: Add product to cart
     Given User on Login page
     When User input username and password
@@ -9,6 +10,7 @@ Feature: Cart feature
     And User click shopping cart button
     Then User success add product to cart
 
+  @Regression
   Scenario: Remove product from shopping cart
     Given User on Login page
     When User input username and password

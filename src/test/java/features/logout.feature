@@ -1,5 +1,5 @@
 Feature: Logout
-
+  @Regression
   Scenario: User logout from website
     Given User on Login page
     When User input username and password
