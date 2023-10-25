@@ -1,5 +1,4 @@
 # testing-saucedemo
-Description
 Web automation project.
 
 Application test: www.saucedemo.com
