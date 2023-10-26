@@ -1,8 +1,5 @@
 # testing-saucedemo
 Web automation project.
-
-Application test: www.saucedemo.com
-
 Tools:
 - Java
 - Selenium WebDriver
